@@ -1,0 +1,12 @@
+{
+    "name": "bryston-rack-fitter",
+    "description": "fun times",
+    "version": "1.0.0",
+    "keywords": [
+        "bryston"
+    ],
+    "dependencies": {
+        "mersenne-twister": "^1",
+        "roulette-wheel": "^1.0.3"
+    }
+}
