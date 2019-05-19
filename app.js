@@ -11,7 +11,7 @@ var components = [
 
 var opts = {
     components:components,
-    size:0,//large rack
+    size:0,//small
     popSize:10
 }
 
