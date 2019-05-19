@@ -11,7 +11,7 @@
 
 */
 
-var Utilities = require('./shared/utilities.js');
+var Utilities = require('./utilities.js');
 
 //constants
 var MIN_SHELVES = 3;

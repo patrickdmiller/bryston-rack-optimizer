@@ -1,5 +1,5 @@
 var Rack = require('./Rack.js');
-var Utilities = require('./shared/utilities.js');
+var Utilities = require('./utilities.js');
 var RW = require("roulette-wheel");
 
 Utilities.logLevel = 1;

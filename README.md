@@ -28,13 +28,10 @@ var Evolver = require('./Evolver.js');
 
 var components = [
     ["2.5b3"],
-    ["2.5b3"],
-    ["2.5b3"],
     ["bda-2"],
     ["bdp-pi"],
     ["bit15"],
     ["bp-173"],
-    ["bax-1"],
     ["bha-1"]
 ]
 
@@ -52,25 +49,19 @@ e.printGeneration();
 Output :
 ```console
 
-$ node app2.js
+$ node app.js
 
    [bdp-pi]
  =======TOP========= , wasted: 0.00 -- weight: 2.60
    [bda-2]
  =======REGULAR========= , wasted: 0.25 -- weight: 12.50
-   [bp-173]
-   [2.5b3]
- =======REGULAR========= , wasted: 0.22 -- weight: 39.00
-   [bax-1]
-   [2.5b3]
- =======REGULAR========= , wasted: 0.02 -- weight: 38.30
-   [2.5b3]
    [bha-1]
+ =======REGULAR========= , wasted: 0.29 -- weight: 13.25
+   [bp-173]
    [bit15]
- =======BOTTOM========= , wasted: 0.18 -- weight: 85.75
+   [2.5b3]
+ =======BOTTOM========= , wasted: 0.12 -- weight: 83.50
  =======GROUND========= , wasted: 0.00 -- weight: 0.00
-TOTAL: 2.531625303293501
-
 ```
 
 ## There are many TODOs

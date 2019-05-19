@@ -2,19 +2,16 @@ var Evolver = require('./Evolver.js');
 
 var components = [
     ["2.5b3"],
-    ["2.5b3"],
-    ["2.5b3"],
     ["bda-2"],
     ["bdp-pi"],
     ["bit15"],
     ["bp-173"],
-    ["bax-1"],
     ["bha-1"]
 ]
 
 var opts = {
     components:components,
-    size:1,//large rack
+    size:0,//large rack
     popSize:10
 }
 
