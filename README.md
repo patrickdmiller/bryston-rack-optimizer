@@ -2,7 +2,7 @@
 
 A genetic algorithm based Bryston rack component fitter.
 
-[Bryston](http://bryston.com/) components go in a [Target rack](http://www.targetaudioproducts.com/component-stands.html) (owned by Bryston)
+[Bryston](http://bryston.com/) components go in a [Target rack](http://www.targetaudioproducts.com/component-stands.html)
 
 The problem is you want it to look nice distributed with no wasted space like this:
 
