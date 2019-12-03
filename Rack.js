@@ -77,13 +77,14 @@ class Shelf {
     }
 
     //returns total space used on this shelf
+    //it should be the FULL heigh of the component on top + the nested height below it. because... say you have a component on a bit, then the NH of your top compoennt 
     computeSpaceUsed() {
         var total = 0;
         for (var i = 0; i < this.components.length; i++) {
-            if (i == 0) {
-                total += this.components[i].component.fh;
-            } else {
+            if (i < this.components.length-1){
                 total += this.components[i].component.nh;
+            }else{
+                total += this.components[i].component.fh;
             }
         }
         this.totalSpaceUsed = total;
