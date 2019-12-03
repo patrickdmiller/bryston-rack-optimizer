@@ -4,9 +4,10 @@
 "bda-2":{"fh":2.75, "nh":2.5, "w":12.5, "interactivity":1, "stackable":true},
 "bdp-pi":{"fh":2.75, "nh":2.5, "w":2.6, "interactivity":2, "stackable":false},
 "bha-1":{"fh":2.71, "nh":2.46, "w":13.25, "interactivity":3, "stackable":true},
-"bax-1":{"fh":2.75, "nh":2.5, "w":10.3, "interactivity":0, "stackable":true},
+    "bax-1":{"fh":2.75, "nh":2.5, "w":10.3, "interactivity":0, "stackable":true},
 "bit15":{"fh":4.13, "nh":4.10, "w":44.5, "interactivity":0, "stackable":true},
-"bp-26":{"fh":2.75, "nh":2.35, "w":12.4, "interactivity":2, "stackable":true},
+"bit20":{"fh":6.38, "nh":6.35, "w":93.0, "interactivity":0, "stackable":true},
+    "bp-26":{"fh":2.75, "nh":2.35, "w":12.4, "interactivity":2, "stackable":true},
     "mps-2":{"fh":2.75, "nh":2.35, "w":15.5, "interactivity":0, "stackable":true},
     "bdp-3":{"fh":2.75, "nh":2.35, "w":14, "interactivity":2, "stackable":true},
     "bda-3":{"fh":3.325, "nh":2.925, "w":8.75, "interactivity":1, "stackable":true}
