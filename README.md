@@ -6,7 +6,7 @@ A genetic algorithm based Bryston rack component fitter.
 
 The problem is you want it to look nice distributed with no wasted space like this:
 
-![rack picture](http://www.bryston.com/images/products/Active_System/L_4.png)
+![rack picture](http://old.bryston.com/images/products/Active_System/L_4.png)
 
 But it's a bit tricky
 * The best looking rack wastes the least amount of space possible (imho). (i.e: The components sit very cleanly in the shelf spaces with no gaps)
